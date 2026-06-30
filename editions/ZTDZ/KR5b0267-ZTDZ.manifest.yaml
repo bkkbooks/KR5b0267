@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0267/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0267/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 靈寶淨明新修九老神印伏魔祕法
+  date: '2015-08-29 00:15:27.740536'
+  source:
+    repository: kanripo
+    path: KR5b0267
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0267_000-ZTDZ.yaml, hash: 'sha256:91292349c97fa39b8b579fcec89c3fcb3acd88851e82ba206971605d0fc582bd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0267_000-ZTDZ.markers.yaml, hash: 'sha256:ac770929a27989b60d5788c5ef81fbb7e941e0306e8955ee012f1f0d4a3204ce'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0267_SJB_000-100547a
+    span:
+    - body
+    - 0
+    - 2519
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:f951e671294b0d6966d7216224af46d646160cdc5ef459a95b8841a3679b68af

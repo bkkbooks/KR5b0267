@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0267/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5b0267/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 靈寶淨明新修九老神印伏魔祕法
+  date: '2015-08-29 00:15:27.740536'
+  source:
+    repository: kanripo
+    path: KR5b0267
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0267_000-HFL.yaml, hash: 'sha256:ff58c11ed5c9887cf6381cce799506141f3d8abf47553d02fcfe898bad8d23f3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0267_000-HFL.markers.yaml, hash: 'sha256:b391bc3be6fb8eff348d423f040ef98ad084d60913f9eb944c390d18a36fe992'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0267_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 2519
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:495f7162b4feb06237fd852c8ddc21b98e2cf8a004956e3dc985e89ff8f12dc6
