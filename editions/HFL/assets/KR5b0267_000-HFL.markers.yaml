@@ -392,6 +392,7 @@ markers:
   - {type: line-break, offset: 938, content: '', id: KR5b0267_HFL_000-005a01}
   - {type: indent, offset: 938, content: 　　　　　　　　　, id: KR5b0267_HFL_000-bkkind39}
   - {type: punctuation, offset: 938, content: (, id: KR5b0267_HFL_000-bkkpn1}
+  - {type: voice, offset: 938, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 940, content: /, id: KR5b0267_HFL_000-bkkpn2}
   - {type: punctuation, offset: 942, content: ), id: KR5b0267_HFL_000-bkkpn3}
   - {type: 'kr:newline', offset: 942, content: '
@@ -529,6 +530,7 @@ markers:
       ', id: KR5b0267_HFL_000-bkkkrnewl121}
   - {type: line-break, offset: 1260, content: '', id: KR5b0267_HFL_000-006b02}
   - {type: punctuation, offset: 1267, content: (, id: KR5b0267_HFL_000-bkkpn4}
+  - {type: voice, offset: 1267, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 1271, content: /, id: KR5b0267_HFL_000-bkkpn5}
   - {type: punctuation, offset: 1275, content: ), id: KR5b0267_HFL_000-bkkpn6}
   - {type: 'kr:newline', offset: 1281, content: '
@@ -888,6 +890,7 @@ markers:
       ', id: KR5b0267_HFL_000-bkkkrnewl209}
   - {type: line-break, offset: 2276, content: '', id: KR5b0267_HFL_000-010b01}
   - {type: punctuation, offset: 2280, content: (, id: KR5b0267_HFL_000-bkkpn7}
+  - {type: voice, offset: 2280, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 2284, content: /, id: KR5b0267_HFL_000-bkkpn8}
   - {type: punctuation, offset: 2288, content: ), id: KR5b0267_HFL_000-bkkpn9}
   - {type: 'kr:newline', offset: 2297, content: '
@@ -999,6 +1002,7 @@ markers:
       ', id: KR5b0267_HFL_000-bkkkrnewl235}
   - {type: line-break, offset: 2504, content: '', id: KR5b0267_HFL_000-011b01}
   - {type: punctuation, offset: 2518, content: (, id: KR5b0267_HFL_000-bkkpn10}
+  - {type: voice, offset: 2518, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 2519, content: ), id: KR5b0267_HFL_000-bkkpn11}
   - {type: 'kr:newline', offset: 2519, content: '
 
@@ -1019,4 +1023,4 @@ markers:
 
       ', id: KR5b0267_HFL_000-bkkkrnewl241}
   back: []
-hash: sha256:b391bc3be6fb8eff348d423f040ef98ad084d60913f9eb944c390d18a36fe992
+hash: sha256:4350dfb2d8a7cad5ceec2818e36e1ac1733923d8be669f311bd5bd6dffc96f20
